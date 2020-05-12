@@ -1,0 +1,8 @@
+{
+  "name": "MathApp",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
